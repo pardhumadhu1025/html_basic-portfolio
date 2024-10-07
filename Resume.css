@@ -1,0 +1,141 @@
+.container{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+}
+
+.header{
+    border: solid 2px gold;
+    background-color: gold;
+    color: black;
+    margin: none;
+    height: 150px;
+}
+
+.name{
+    border: solid 2px gold;
+    background-color: gold;
+    color: black;
+    font-size: xx-large;
+    margin-bottom: 10px;
+}
+
+.details{
+    border: solid 2px gold;
+    background-color: gold;
+    color: black;
+    margin-left: 15px;
+    width: 600px;
+    float: left;
+}
+
+.links{
+    padding: 15px;
+    float: right;
+    width: 200px;
+    margin-left: 20px;
+    font-size: larger;
+    color: black;
+}
+
+.middle{
+    background-color: rgb(193, 193, 193);
+    height: 1250px;
+}
+
+
+.left{
+    width: 300px;
+    height: 1250px;
+    font-size: xx-large;
+    padding-left: 15px;
+    float: left;
+}
+
+.space{
+    margin-left: 10px;
+}
+
+.greybox{
+    margin-top: 25px;
+    background-color: gray;
+    color: black;
+    padding: 20px;
+    height: 170px;
+    width: 250px;
+    font-size: 20px;
+    border-radius: 25px;
+}
+
+.right{
+    height: 1250px;
+    width: 578px;
+    float: right;
+}
+
+.title{
+    font-size: x-large;
+    margin-left:74px ;
+    margin-top: 40px;
+}
+
+.about{
+    color: black;
+    height: 130px;
+    width: 450px;
+    float: right;
+    
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    font-size: larger;
+}
+
+
+.project{
+    color: black;
+    height: 200px;
+    width: 450px;
+    float: right;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    font-size: larger;
+}
+
+.skill{
+    color: black;
+    height: 195px;
+    width: 450px;
+    float: right;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 215px;
+    font-size: larger;
+    line-height: 25px;
+}
+
+.language{
+    color: black;
+    height: 100px;
+    width: 450px;
+    float: right;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 210px;
+    font-size: larger;
+    line-height: 30px;
+}
+
+.hobbies{
+    color: black;
+    height: 170px;
+    width: 450px;
+    float: right;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 210px;
+    font-size: larger;
+    line-height: 30px;
+}
